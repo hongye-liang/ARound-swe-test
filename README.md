@@ -7,4 +7,6 @@
 4. Then find the terminal with 'frontend' directory and repeat the same process from step 4. 
 5. Once everything is done, default browser will appear and brings you to [local](http://localhost:3000/) which is where the application runs.
 
-* Another version without material ui card, welcome to try out by uncommenting second part of ProductList.jsx  (using CSS, a bit more features).
+- If accidently closed browser, reopen the app by typing http://localhost:3000 in any browser.
+
+* Another version without material ui card, welcome to try out by uncommenting the second part of ProductList.jsx  (using CSS, a bit more features).
